@@ -1,0 +1,55 @@
+body{
+    background-color: #eaeaea;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* TITULO DE RED SOCIAL */
+.instagram{
+    background-color: white;
+}
+
+
+h1{
+    padding: 1rem;
+    font-size: 2rem;
+    font-weight:bold;
+    margin:0 39rem ;
+    
+}
+
+/* CODIGO GENERAL DE LA PUBLICACION */
+.post{
+    margin: 75px auto;
+    width: 37.7rem;
+    border-radius: 5px;
+    background-color: white;
+}
+
+
+/* CODIGO DEL CONTENIDO DE LA PUBLICACION */
+h2{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.titulo_fecha{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+}
+
+.fecha{
+    color: rgb(160, 157, 157);
+    font-size: 17px;
+    margin-right: 10px;
+}
+
+.descripcion{
+    font-size: 18px;
+    margin: 0 0;
+    padding: 1rem;
+}
+
+.img1{
+    width: 37.6rem;
+}
